@@ -10,4 +10,4 @@ Angular.js Applications using FireBase.
 5. Run the Gulp command `> gulp`
 6. Fire up your browser at `http://localhost:8080`
 
-References: Thanks to the Author  #Ray Villalobos for his expert advice on building this Application from scratch. And thank you to Lynda.com)
+References: Thanks to the Author  Ray Villalobos for his expert advice on building this Application from scratch. And thank you to Lynda.com
