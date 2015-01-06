@@ -1,5 +1,5 @@
 # Angular.Js Web Application
-Angular.js Applications using FireBase.
+Angular.js Applications using FireBase. 
 
 ## Instructions
 1. Make sure you have [node.js](http://nodejs.org/) and [git](http://git-scm.com/) installed on your machine.
@@ -9,3 +9,5 @@ Angular.js Applications using FireBase.
 5. Install gulp.js via the Mac terminal or Gitbash on a PC `> npm install -g gulp`
 5. Run the Gulp command `> gulp`
 6. Fire up your browser at `http://localhost:8080`
+
+References: Thanks to the Author  #Ray Villalobos for his expert advice on building this Application from scratch. And thank you to Lynda.com)
