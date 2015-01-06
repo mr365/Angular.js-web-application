@@ -1,5 +1,4 @@
-# Angular.Js Web Application
-Angular.js Applications using FireBase. 
+# An Angular.js Web application (designed for study purpose only)
 
 ## Instructions
 1. Make sure you have [node.js](http://nodejs.org/) and [git](http://git-scm.com/) installed on your machine.
