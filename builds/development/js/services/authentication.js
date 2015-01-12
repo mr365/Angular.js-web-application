@@ -7,6 +7,8 @@ myApp.factory('Authentication', function($firebase,$firebaseAuth,$location){
 			return simpleLogin.$authWithPassword({
 			email: user.email,
 			password: user.password
+		},function(error, authData) { /* Your Code */ }, {
+		  remember: "sessionOnly"
 		});
 	}//login
 	}//myObject
